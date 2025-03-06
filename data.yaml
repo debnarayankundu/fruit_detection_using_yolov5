@@ -1,0 +1,6 @@
+train: data_images/train
+val: data_images/test
+nc: 3
+names: ['apple',
+       'orange',
+       'banana']
